@@ -1,0 +1,40 @@
+ Follow these steps 
+
+1. write the commands 
+
+a.  python -m venv (anyname give it.. )
+b. mkdir (anyname give it ) folder
+c. cd  (anyname give it.. )  folder
+
+
+
+2.  write the command
+
+a. .\Scripts\Activate
+b. python -m pip install django
+
+(>>>>>>>>>.........(Venv) E:\project_django\djangoAPP\Venv>............<<<<<<<<<<<<) will be shown
+
+
+3. cd .. (anyname give it.. ) folder
+
+
+4. cd django_app folder 
+
+
+5. django-admin startproject ( name any  project )
+
+
+6. cd newProject folder
+
+
+
+7. python manage.py runserver 
+
+
+
+========================================================================================
+
+............YOU WILL GET A LINK TO THE WEB CLICK IT OR COPY & PASTE IT..................
+
+========================================================================================
